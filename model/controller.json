@@ -6,7 +6,7 @@
         "children":[{
             "name":"vr_controller_vive_1_5_polySurface1",
             "uuid":"94DF3003-44DF-3CDA-BC63-6BA92AC7C0D2",
-            "matrix":[-1,0,0,0,0,1,-0,0,0,-0,-1,0,0,0,0,1],
+            "matrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
             "visible":true,
             "type":"Mesh",
             "castShadow":false,
@@ -53,7 +53,7 @@
     ],
     "materials":[{
         "name":"controller",
-        "map":"76184EE6-B0E3-4BD8-BFC6-73F40AAA1DC8,
+        "map":"76184EE6-B0E3-4BD8-BFC6-73F40AAA1DC8",
         "specularMap":"D0EDCDE3-2489-4CDD-8DF1-0AEBCB2703E9",
         "depthWrite":true,
         "type":"MeshPhongMaterial",
