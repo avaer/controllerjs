@@ -1,6 +1,6 @@
 {
   "name": "controllerjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "HTC Vive controller model for WebVR",
   "main": "index.js",
   "scripts": {
